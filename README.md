@@ -18,7 +18,7 @@ El archivo de audio generado simula una transmisión real de onda corta y puede 
 
 Para que el script funcione correctamente, se recomienda mantener la siguiente organización de archivos en la carpeta de tu proyecto:
 
-
+(por cierto si tienes pereza solo escribe python wefaxencoder.py imeages\ACAELNOMBREDELAFOTO, aguanta png y jpg los demas no recuerdo jeje) 
 
 ```text
 
